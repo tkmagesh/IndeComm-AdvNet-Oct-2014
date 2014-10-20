@@ -1,0 +1,5 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\POSSystem\POSSystem\bin\Debug\POSSystem.dll
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\POSSystem\POSSystem\bin\Debug\POSSystem.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\POSSystem\POSSystem\obj\Debug\POSSystem.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\POSSystem\POSSystem\obj\Debug\POSSystem.dll
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\POSSystem\POSSystem\obj\Debug\POSSystem.pdb

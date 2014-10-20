@@ -1,0 +1,5 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\GreetingApp\GreetingApp\bin\Debug\GreetingApp.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\GreetingApp\GreetingApp\obj\Debug\GreetingApp.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-01\GreetingApp\GreetingApp\obj\Debug\GreetingApp.pdb
