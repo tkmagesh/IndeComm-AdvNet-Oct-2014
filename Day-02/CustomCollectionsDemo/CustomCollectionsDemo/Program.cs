@@ -18,13 +18,60 @@ namespace CustomCollectionsDemo
             products.Add(new Product { Id = 1, Name = "Zen", Category = 2, Units = 60, Cost = 70 });
 
             Console.WriteLine("Default List..");
-            /*for(var i=0;i<products.Count;i++)
-                Console.WriteLine(products[i]);*/
-
+            
             foreach(var product in products)
                 Console.WriteLine(product);
 
+            Console.WriteLine();
+            Console.WriteLine("After sorting [default]");
+            products.Sort(new ProductComparerById());
+            foreach (var product in products)
+            {
+                Console.WriteLine(product);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("After sorting [Cost]");
+            //products.Sort(CompareProductByUnits);
+
+            /*products.Sort(delegate(Product left, Product right)
+            {
+                if (left.Units < right.Units) return -1;
+                if (left.Units > right.Units) return 1;
+                return 0;
+            });*/
+
+/*
+            products.Sort((left, right) =>
+            {
+                if (left.Units < right.Units) return -1;
+                if (left.Units > right.Units) return 1;
+                return 0;
+            });
+*/
+
+            /*products.Sort((left, right) =>
+            {
+                return left.Units - right.Units;
+            });*/
+
+            products.Sort((left, right) => left.Units - right.Units);
+
+            foreach (var product in products)
+            {
+                Console.WriteLine(product);
+            }
+
+            Console.WriteLine();
+
             Console.ReadLine();
         }
+
+        /*public static int CompareProductByUnits(Product left, Product right)
+        {
+            if (left.Units < right.Units) return -1;
+            if (left.Units > right.Units) return 1;
+            return 0;
+        }*/
     }
 }

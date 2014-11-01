@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompareProductsDelegate.cs" />
+    <Compile Include="IProductComparer.cs" />
     <Compile Include="Product.cs" />
+    <Compile Include="ProductComparerByCost.cs" />
+    <Compile Include="ProductComparerById.cs" />
     <Compile Include="Products.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
