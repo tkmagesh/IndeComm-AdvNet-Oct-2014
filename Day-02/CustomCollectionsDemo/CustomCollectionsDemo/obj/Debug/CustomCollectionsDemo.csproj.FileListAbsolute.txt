@@ -1,0 +1,5 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\CustomCollectionsDemo\CustomCollectionsDemo\bin\Debug\CustomCollectionsDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\CustomCollectionsDemo\CustomCollectionsDemo\bin\Debug\CustomCollectionsDemo.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\CustomCollectionsDemo\CustomCollectionsDemo\obj\Debug\CustomCollectionsDemo.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\CustomCollectionsDemo\CustomCollectionsDemo\obj\Debug\CustomCollectionsDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\CustomCollectionsDemo\CustomCollectionsDemo\obj\Debug\CustomCollectionsDemo.pdb
