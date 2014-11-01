@@ -1,9 +1,14 @@
 using System.Collections.Generic;
+using System.ComponentModel.Composition;
 using System.IO;
+using System.Linq;
+using System.Xml.Linq;
+using DIDemo.Contracts;
 
 namespace DIDemo
 {
-    public class CsvProductsDestination
+    [Export(typeof(IProductDestination))]
+    public class CsvProductsDestination : IProductDestination
     {
         public void Save(List<Product> products )
         {
@@ -17,4 +22,6 @@ namespace DIDemo
             sw.Close();
         }
     }
+
+   
 }

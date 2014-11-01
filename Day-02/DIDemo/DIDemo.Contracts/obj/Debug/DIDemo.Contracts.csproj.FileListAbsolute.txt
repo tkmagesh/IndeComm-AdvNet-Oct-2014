@@ -1,0 +1,4 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo.Contracts\bin\Debug\DIDemo.Contracts.dll
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo.Contracts\bin\Debug\DIDemo.Contracts.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo.Contracts\obj\Debug\DIDemo.Contracts.dll
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo.Contracts\obj\Debug\DIDemo.Contracts.pdb

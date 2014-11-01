@@ -1,8 +1,11 @@
 using System.Collections.Generic;
+using System.ComponentModel.Composition;
+using DIDemo.Contracts;
 
 namespace DIDemo
 {
-    public class ProductsInMemorySource
+    [Export(typeof(IProductSource))]
+    public class ProductsInMemorySource : IProductSource
     {
         public List<Product> GetProducts()
         {

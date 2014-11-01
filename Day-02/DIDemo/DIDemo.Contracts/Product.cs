@@ -1,4 +1,4 @@
-﻿namespace DIDemo
+﻿namespace DIDemo.Contracts
 {
     public class Product
     {

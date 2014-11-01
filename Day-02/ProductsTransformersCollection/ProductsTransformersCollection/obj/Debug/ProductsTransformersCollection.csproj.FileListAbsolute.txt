@@ -1,0 +1,6 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\ProductsTransformersCollection\ProductsTransformersCollection\bin\Debug\ProductsTransformersCollection.dll
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\ProductsTransformersCollection\ProductsTransformersCollection\bin\Debug\ProductsTransformersCollection.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\ProductsTransformersCollection\ProductsTransformersCollection\bin\Debug\DIDemo.Contracts.dll
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\ProductsTransformersCollection\ProductsTransformersCollection\obj\Debug\ProductsTransformersCollection.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\ProductsTransformersCollection\ProductsTransformersCollection\obj\Debug\ProductsTransformersCollection.dll
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\ProductsTransformersCollection\ProductsTransformersCollection\obj\Debug\ProductsTransformersCollection.pdb

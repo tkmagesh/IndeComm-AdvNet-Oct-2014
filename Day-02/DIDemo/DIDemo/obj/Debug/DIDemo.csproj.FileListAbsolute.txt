@@ -3,3 +3,5 @@ D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo\bin\Debug\DIDemo.pdb
 D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo\obj\Debug\DIDemo.csprojResolveAssemblyReference.cache
 D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo\obj\Debug\DIDemo.exe
 D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo\obj\Debug\DIDemo.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo\bin\Debug\DIDemo.Contracts.dll
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-02\DIDemo\DIDemo\bin\Debug\DIDemo.Contracts.pdb
