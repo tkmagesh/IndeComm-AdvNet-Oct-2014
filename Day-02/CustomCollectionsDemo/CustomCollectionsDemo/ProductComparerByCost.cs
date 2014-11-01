@@ -1,6 +1,6 @@
 ﻿namespace CustomCollectionsDemo
 {
-    public class ProductComparerByCost : IProductComparer
+    public class ProductComparerByCost : IItemComparer<Product>
     {
         public int Compare(Product left, Product right)
         {

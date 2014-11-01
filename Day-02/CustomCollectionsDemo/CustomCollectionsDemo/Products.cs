@@ -5,7 +5,7 @@ namespace CustomCollectionsDemo
 {
     using System.Collections;
 
-    public class Products : IEnumerable, IEnumerator
+    public class MyCollection<T> : IEnumerable, IEnumerator
     {
         private ArrayList _list = new ArrayList();
 
@@ -14,21 +14,21 @@ namespace CustomCollectionsDemo
             get { return _list.Count; }
         }
 
-        public void Add(Product product)
+        public void Add(T item)
         {
-            _list.Add(product);
+            _list.Add(item);
         }
 
-        public Product Get(int index)
+        public T Get(int index)
         {
-            return (Product) _list[index];
+            return (T) _list[index];
         }
 
-        public Product this[int index]
+        public T this[int index]
         {
             get
             {
-                return (Product)_list[index];
+                return (T)_list[index];
             }
         }
 
@@ -57,19 +57,20 @@ namespace CustomCollectionsDemo
 
         public object Current
         {
-            get { return (Product) _list[_index]; }
+            get { return (T) _list[_index]; }
         }
 
-        public void Sort(IProductComparer productComparer)
+        //public void Sort(IProductComparer productComparer)
+        public void Sort(IItemComparer<T> itemComparer)
         {
             for (int i = 0; i < _list.Count-1; i++)
             {
                 for (var j = i + 1; j < _list.Count; j++)
                 {
-                    var left = (Product) _list[i];
-                    var right = (Product) _list[j];
+                    var left = (T) _list[i];
+                    var right = (T) _list[j];
                     
-                    if (productComparer.Compare(left,right) > 0)
+                    if (itemComparer.Compare(left,right) > 0)
                     {
                         var temp = left;
                         _list[i] = _list[j];
@@ -80,16 +81,16 @@ namespace CustomCollectionsDemo
             }
         }
 
-        public void Sort(CompareProductsDelegate compareProducts)
+        public void Sort(CompareItemsDelegate<T> compareItems)
         {
             for (int i = 0; i < _list.Count - 1; i++)
             {
                 for (var j = i + 1; j < _list.Count; j++)
                 {
-                    var left = (Product)_list[i];
-                    var right = (Product)_list[j];
+                    var left = (T)_list[i];
+                    var right = (T)_list[j];
 
-                    if (compareProducts(left, right) > 0)
+                    if (compareItems(left, right) > 0)
                     {
                         var temp = left;
                         _list[i] = _list[j];
@@ -99,5 +100,47 @@ namespace CustomCollectionsDemo
                 }
             }
         }
+
+        public MyCollection<T> Filter(IFilterItemsCriteria<T> criteria)
+        {
+            var result = new MyCollection<T>();
+            foreach (var item in _list)
+            {
+                var tItem = (T) item;
+                if (criteria.IsSatisfiedBy(tItem))
+                    result.Add(tItem);
+            }
+            return result;
+        }
+
+        public MyCollection<T> Filter(FilterItemCriteriaDelegate<T> criteria)
+        {
+            var result = new MyCollection<T>();
+            foreach (var item in _list)
+            {
+                var tItem = (T)item;
+                if (criteria(tItem))
+                    result.Add(tItem);
+            }
+            return result;
+        }
+
+        public IDictionary<TKey, MyCollection<T>> GroupBy<TKey>(KeySelectorDelegate<T, TKey> keySelector)
+        {
+            var result = new Dictionary<TKey, MyCollection<T>>();
+            foreach(var item in _list)
+            {
+                var tItem = (T) item;
+                var key = keySelector(tItem);
+                if (!result.ContainsKey(key))
+                    result[key] = new MyCollection<T>();
+                result[key].Add(tItem);
+            }
+            return result;
+        } 
+
+
     }
+
+    public delegate TKey KeySelectorDelegate<in T, out TKey>(T item);
 }

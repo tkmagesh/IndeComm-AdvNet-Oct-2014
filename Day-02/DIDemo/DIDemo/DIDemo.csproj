@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01E31F44-8BDD-4154-A7C2-54124004D9C2}</ProjectGuid>
+    <ProjectGuid>{90AE61A6-CED5-483A-B97F-D05E7AF0E108}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CustomCollectionsDemo</RootNamespace>
-    <AssemblyName>CustomCollectionsDemo</AssemblyName>
+    <RootNamespace>DIDemo</RootNamespace>
+    <AssemblyName>DIDemo</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,15 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CompareProductsDelegate.cs" />
-    <Compile Include="CostlyProductCriteria.cs" />
-    <Compile Include="FilterItemCriteriaDelegate.cs" />
-    <Compile Include="IFilterProductCriteria.cs" />
-    <Compile Include="IProductComparer.cs" />
     <Compile Include="Product.cs" />
-    <Compile Include="ProductComparerByCost.cs" />
-    <Compile Include="ProductComparerById.cs" />
-    <Compile Include="Products.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
