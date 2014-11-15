@@ -1,0 +1,13 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\bin\Debug\TPLDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\bin\Debug\TPLDemo.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\TPLDemo.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\MainWindow.baml
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\MainWindow.g.cs
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\App.g.cs
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\TPLDemo_MarkupCompile.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\TPLDemo.g.resources
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\TPLDemo.Properties.Resources.resources
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\TPLDemo.csproj.GenerateResource.Cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\TPLDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\obj\Debug\TPLDemo.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TPLDemo\TPLDemo\bin\Debug\TPLDemo.exe.config

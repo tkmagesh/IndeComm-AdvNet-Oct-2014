@@ -1,0 +1,6 @@
+﻿<Window x:Class="TPLDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Button Content="Do Work" x:Name="btnDoWork" HorizontalAlignment="Left" Height="39" VerticalAlignment="Top" Width="173" Margin="36,38,0,0" Click="btnDoWork_Click"/>
+</Window>

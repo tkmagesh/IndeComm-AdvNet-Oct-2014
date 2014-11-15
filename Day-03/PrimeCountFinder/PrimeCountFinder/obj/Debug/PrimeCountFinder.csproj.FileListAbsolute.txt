@@ -1,0 +1,12 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\PrimeCountFinder.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\MainWindow.baml
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\MainWindow.g.cs
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\App.g.cs
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\PrimeCountFinder_MarkupCompile.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\PrimeCountFinder.g.resources
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\PrimeCountFinder.Properties.Resources.resources
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\PrimeCountFinder.csproj.GenerateResource.Cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\bin\Debug\PrimeCountFinder.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\bin\Debug\PrimeCountFinder.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\PrimeCountFinder.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PrimeCountFinder\PrimeCountFinder\obj\Debug\PrimeCountFinder.pdb

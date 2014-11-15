@@ -1,0 +1,9 @@
+﻿<Window x:Class="PrimeCountFinder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Find Primes" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="32,38,0,0" x:Name="btnFindPrimes" Click="btnFindPrimes_Click"/>
+
+    </Grid>
+</Window>
