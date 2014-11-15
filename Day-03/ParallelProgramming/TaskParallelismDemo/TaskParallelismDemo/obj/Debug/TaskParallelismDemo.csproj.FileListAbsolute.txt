@@ -1,0 +1,13 @@
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\bin\Debug\TaskParallelismDemo.exe.config
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\TaskParallelismDemo.csprojResolveAssemblyReference.cache
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\MainWindow.baml
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\MainWindow.g.cs
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\App.g.cs
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\TaskParallelismDemo_MarkupCompile.cache
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\TaskParallelismDemo.g.resources
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\TaskParallelismDemo.Properties.Resources.resources
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\TaskParallelismDemo.csproj.GenerateResource.Cache
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\bin\Debug\TaskParallelismDemo.exe
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\bin\Debug\TaskParallelismDemo.pdb
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\TaskParallelismDemo.exe
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\TaskParallelismDemo\TaskParallelismDemo\obj\Debug\TaskParallelismDemo.pdb

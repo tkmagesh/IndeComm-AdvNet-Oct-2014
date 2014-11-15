@@ -4,6 +4,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Button Content="Find Primes" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="32,38,0,0" x:Name="btnFindPrimes" Click="btnFindPrimes_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="32,97,0,0" Click="Button_Click"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,13 @@
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe.config
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csprojResolveAssemblyReference.cache
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\MainWindow.baml
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\MainWindow.g.cs
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\App.g.cs
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo_MarkupCompile.cache
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.g.resources
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.Properties.Resources.resources
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csproj.GenerateResource.Cache
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.pdb
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.exe
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.pdb

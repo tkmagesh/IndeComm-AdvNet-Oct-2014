@@ -1,0 +1,9 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe.config
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.Form1.resources
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.Properties.Resources.resources
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csproj.GenerateResource.Cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.pdb

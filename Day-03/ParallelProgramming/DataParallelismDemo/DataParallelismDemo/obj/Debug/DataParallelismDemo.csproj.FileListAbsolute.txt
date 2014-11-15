@@ -1,0 +1,6 @@
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\DataParallelismDemo\DataParallelismDemo\bin\Debug\DataParallelismDemo.exe.config
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\DataParallelismDemo\DataParallelismDemo\bin\Debug\DataParallelismDemo.exe
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\DataParallelismDemo\DataParallelismDemo\bin\Debug\DataParallelismDemo.pdb
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\DataParallelismDemo\DataParallelismDemo\obj\Debug\DataParallelismDemo.csprojResolveAssemblyReference.cache
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\DataParallelismDemo\DataParallelismDemo\obj\Debug\DataParallelismDemo.exe
+D:\Training\Schenider-AdvNet-Apr-2014\Day-2\ParallelProgramming\DataParallelismDemo\DataParallelismDemo\obj\Debug\DataParallelismDemo.pdb

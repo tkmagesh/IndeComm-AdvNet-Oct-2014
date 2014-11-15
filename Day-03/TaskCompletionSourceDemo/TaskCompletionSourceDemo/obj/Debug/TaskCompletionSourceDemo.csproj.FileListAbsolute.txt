@@ -1,0 +1,6 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TaskCompletionSourceDemo\TaskCompletionSourceDemo\bin\Debug\TaskCompletionSourceDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TaskCompletionSourceDemo\TaskCompletionSourceDemo\bin\Debug\TaskCompletionSourceDemo.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TaskCompletionSourceDemo\TaskCompletionSourceDemo\obj\Debug\TaskCompletionSourceDemo.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TaskCompletionSourceDemo\TaskCompletionSourceDemo\obj\Debug\TaskCompletionSourceDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TaskCompletionSourceDemo\TaskCompletionSourceDemo\obj\Debug\TaskCompletionSourceDemo.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\TaskCompletionSourceDemo\TaskCompletionSourceDemo\bin\Debug\TaskCompletionSourceDemo.exe.config

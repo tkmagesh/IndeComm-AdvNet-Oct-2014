@@ -1,0 +1,5 @@
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PLINQDemo\PLINQDemo\bin\Debug\PLINQDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PLINQDemo\PLINQDemo\bin\Debug\PLINQDemo.pdb
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PLINQDemo\PLINQDemo\obj\Debug\PLINQDemo.csprojResolveAssemblyReference.cache
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PLINQDemo\PLINQDemo\obj\Debug\PLINQDemo.exe
+D:\Training\IndeComm-AdvNet-Oct-2014\Day-03\PLINQDemo\PLINQDemo\obj\Debug\PLINQDemo.pdb
